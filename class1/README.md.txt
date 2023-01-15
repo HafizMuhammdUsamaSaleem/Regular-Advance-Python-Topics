@@ -1,4 +1,4 @@
-# Class2 Hello World with python
+# Class1 Hello World with python
 1. Hello world with python
     * Windows Operating System (OS)
         * **windows + R** -> `cmd` 
