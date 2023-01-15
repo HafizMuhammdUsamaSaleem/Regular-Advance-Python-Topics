@@ -1,3 +1,2 @@
 # Python-for-DS-NED-PGD-DS-AI
-from "hello world" to python expert as a data scientist
-Course name Python for Data Scince as a part of PGD programm offered by NED "Data Scince & Artificial Intelligence"
+From "hello world" to python expert as a data scientist. Python for Data Scince course Post Graduate Diploma in "Data Scince & Artificial Intelligence" offered by NED 
