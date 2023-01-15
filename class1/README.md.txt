@@ -11,7 +11,7 @@
         * terminal
             * `python`
             ```
-            print("Hellow World!")
+            print("Hello World!")
             ```
 2. Create **filename.py**
     * `touch file1.py`
